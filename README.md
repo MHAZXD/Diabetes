@@ -60,6 +60,6 @@ To develop a binary classification model that predicts:
 2. Install required libraries: pip install numpy pandas scikit-learn
 3. Open and run the notebook in Google Colab or Jupyter.
    
-###Disclaimer
+##Disclaimer
 This project is for educational purposes only and not intended for medical diagnosis.
       
